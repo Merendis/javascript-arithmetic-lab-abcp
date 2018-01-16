@@ -31,3 +31,5 @@ function dec(n){
 }
 
 dec(37);
+
+makeInt
