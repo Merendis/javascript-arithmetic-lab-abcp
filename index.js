@@ -32,4 +32,8 @@ function dec(n){
 
 dec(37);
 
-function makeInt(a)
+function makeInt(a){
+  parseInt(a,10)
+}
+
+makeInt('2');
