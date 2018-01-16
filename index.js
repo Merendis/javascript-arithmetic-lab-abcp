@@ -8,7 +8,12 @@ function subtract(a,b){
 }
 subtract(1002,1);
 
-function add(a,b){
- return a + b;
+function multiply(a,b){
+ return a * b;
 }
-add(1002,1);
+multiply(1002,1);
+
+function divide(a,b){
+ return a / b;
+}
+divide(1002,1);
