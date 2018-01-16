@@ -19,7 +19,8 @@ function divide(a,b){
 divide(1002,1);
 
 function inc(n){
-  return n++;
+  n++;
+  return n;
 }
 
 inc(37);
