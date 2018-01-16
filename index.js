@@ -22,4 +22,4 @@ function inc(n){
   n++ return n;
 }
 
-inc(888);
+inc(37);
