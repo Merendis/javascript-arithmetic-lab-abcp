@@ -39,3 +39,7 @@ function makeInt(a){
 makeInt('2');
 makeInt(2.2222);
 makeInt('things');
+
+function preserveDecimal(n){
+  
+}
