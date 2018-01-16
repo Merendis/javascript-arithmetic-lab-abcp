@@ -1,4 +1,4 @@
 function add(a,b){
  return a + b;
 }
-add(500,22);
+add(1002,1);
