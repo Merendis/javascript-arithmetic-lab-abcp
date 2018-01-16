@@ -24,3 +24,10 @@ function inc(n){
 }
 
 inc(37);
+
+function dec(n){
+  n--;
+  return n;
+}
+
+dec(37);
