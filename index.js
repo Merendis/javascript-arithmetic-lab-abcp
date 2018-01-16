@@ -37,7 +37,7 @@ function makeInt(a){
 }
 
 makeInt('693');
-makeInt(2.2222);
+makeInt(693.11112);
 makeInt('things');
 
 function preserveDecimal(n){
