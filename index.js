@@ -21,3 +21,5 @@ divide(1002,1);
 function inc(n){
   return n++
 }
+
+inc(5);
