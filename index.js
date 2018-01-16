@@ -32,4 +32,4 @@ function dec(n){
 
 dec(37);
 
-makeInt(a, 10)
+function makeInt(a)
