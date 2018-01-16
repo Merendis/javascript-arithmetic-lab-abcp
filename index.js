@@ -36,7 +36,7 @@ function makeInt(a){
   return parseInt(a,10);
 }
 
-makeInt('2');
+makeInt('693');
 makeInt(2.2222);
 makeInt('things');
 
