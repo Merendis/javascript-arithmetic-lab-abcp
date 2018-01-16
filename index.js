@@ -17,3 +17,7 @@ function divide(a,b){
  return a / b;
 }
 divide(1002,1);
+
+function inc(n){
+  return n++
+}
