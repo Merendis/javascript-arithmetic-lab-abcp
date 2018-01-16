@@ -33,7 +33,7 @@ function dec(n){
 dec(37);
 
 function makeInt(a){
-  return parseInt(a,10)
+  return parseInt(a,10);
 }
 
 makeInt('2');
@@ -41,5 +41,7 @@ makeInt(2.2222);
 makeInt('things');
 
 function preserveDecimal(n){
-  return parseFloat(n)
+  return parseFloat(n);
 }
+
+preserveDecimal('2.11222');
